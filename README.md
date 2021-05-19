@@ -1,5 +1,5 @@
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalf)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalf)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
